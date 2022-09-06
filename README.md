@@ -60,5 +60,6 @@
 Контакты
 --------
 
-* email: dmtr.makarenko@gmail.com
-* telegram: https://t.me/d_makarenko
+* email: teslov90@mail.ru
+* telegram: https://t.me/Medoed_Medvedka
+* благодарности на проделанную работы над курсом можно передавать https://t.me/d_makarenko
